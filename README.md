@@ -9,7 +9,16 @@ An Alert System for Drowsiness Detection with OpenCV
 
 ## Usage
 
-Install all necessary packages mentioned in code.
+Install all necessary packages using commands below.
+
+```pip install imutils
+pip install cmake
+pip install dlib
+pip install playsound
+pip install twilio
+pip install opencv-python
+pip install requests-futures
+```
 
 Replace API keys of thingspeak and twilio as mentioned in code.
 
